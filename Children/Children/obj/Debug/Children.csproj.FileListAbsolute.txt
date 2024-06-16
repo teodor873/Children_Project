@@ -1,0 +1,7 @@
+D:\programirane zadachi\c#\Children\Children\obj\Debug\Children.csproj.AssemblyReference.cache
+D:\programirane zadachi\c#\Children\Children\obj\Debug\Children.csproj.CoreCompileInputs.cache
+D:\programirane zadachi\c#\Children\Children\bin\Debug\Children.exe.config
+D:\programirane zadachi\c#\Children\Children\bin\Debug\Children.exe
+D:\programirane zadachi\c#\Children\Children\bin\Debug\Children.pdb
+D:\programirane zadachi\c#\Children\Children\obj\Debug\Children.exe
+D:\programirane zadachi\c#\Children\Children\obj\Debug\Children.pdb

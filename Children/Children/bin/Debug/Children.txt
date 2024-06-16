@@ -1,0 +1,5 @@
+Child denislav is boy, EGN - 0392847394, age when last time measured: 14, hight: 179, weight: 70
+Child gabriela is girl, EGN - 0194826391, age when last time measured: 12, hight: 180, weight: 50
+Child nikolay is boy, EGN - 8274913857, age when last time measured: 11, hight: 130, weight: 40
+Child preslava is girl, EGN - 0394948274, age when last time measured: 23, hight: 165, weight: 50
+Child preslavaK is girl, EGN - 0394948274, age when last time measured: 23, hight: 165, weight: 43
